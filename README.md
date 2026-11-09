@@ -52,22 +52,6 @@ Hai! Aku **Apin**, seorang mahasiswa yang tertarik dengan dunia pemrograman dan 
 - 📂 Mulai mengisi GitHub dengan proyek latihan
 - 🌟 Terus berkembang dan tidak takut mencoba
 
-## 📡 Temukan aku di sini
-
-| Platform | Tautan |
-|:--|:--|
-| 🟢 WhatsApp Channel | [Ikuti youtube-ku](https://whatsapp.com/channel/0029VbDp6F9BPzjcr9n0qi1z) |
-| 🔴 YouTube | [Kunjungi channel-ku](https://youtube.com/@apinyamada?si=-BuRQqO12Cgws0In) |
-
-## 📊 Statistik GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ApinMD&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Statistik GitHub Apin" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApinMD&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa yang digunakan Apin" />
-
-</div>
-
 ---
 
 <div align="center">
